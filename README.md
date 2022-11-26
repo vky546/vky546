@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vky546
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA ans web development
 - 📫 How to reach me https://www.linkedin.com/in/vikkey-barpete-304158173/
 - My Postfolio Website https://vky546.github.io/My-Portfolio-Website/
 
